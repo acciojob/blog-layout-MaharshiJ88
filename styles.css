@@ -27,6 +27,7 @@ body {
 	margin-top: 30px;
 }
 
-.blog-column>p {
+.blog-column>ul {
 	margin-top: 15px;
+	list-style-type: none;
 }
