@@ -15,7 +15,7 @@ body {
 	flex-wrap: wrap;
 }
 
-.col-1 {
+.blog-column {
 	width: 150px;
 	height: 250px;
 	background-color: white;
@@ -23,10 +23,10 @@ body {
 	margin-top: 30px;
 }
 
-.col-1>h2 {
+.blog-column>h2 {
 	margin-top: 30px;
 }
 
-.col-1>p {
+.blog-column>p {
 	margin-top: 15px;
 }
